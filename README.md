@@ -6,7 +6,7 @@ This project contains a simple Java program to calculate electricity bills based
 
 1. *Clone the Repository:*
     bash
-    git clone https://github.com/veenanikhar/CoreJava_electricity-bill-calculator.git
+    git clone https://github.com/ankitamurabatte/Electricity-Bill-Calculator.git
     
 
 2. *Navigate to the Directory:*
