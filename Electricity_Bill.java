@@ -62,7 +62,7 @@ public class ElectricityBill
 		
 		System.out.println("First Customer: ");
 		System.out.println("---------------");
-		eBill.readData(21101, "Veena", 580);
+		eBill.readData(21101, "Ankita", 580);
 		eBill.showData();
 		System.out.println("--------------------");
 		eBill.computeBill(eBill.unitsConsumed);
